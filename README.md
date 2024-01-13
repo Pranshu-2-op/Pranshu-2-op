@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pranshu-2-op
-- 👀 I’m interested in Web Development, AI, Robotics.
+- 👀 I’m interested in Web Development, IOT, Robotics.
 - 🌱 I’m currently learning CS and Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pranshu2op@gmail.com
